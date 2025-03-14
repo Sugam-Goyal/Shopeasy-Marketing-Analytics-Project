@@ -17,6 +17,7 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 ## Recommendations
 ## Screenshots
 
-![ERD Diagram]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-03-15 001113.png")
+![ERD Diagram](https://github.com/Sugam-Goyal/Shopeasy-Marketing-Analytics-Project/blob/main/Screenshot%202025-03-15%20001113.png?raw=true)
 
-Screenshot 2025-03-15 001113.png
+
+
